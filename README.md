@@ -1,7 +1,7 @@
 gulp-angular-includes
 =====================
 
-Builds an `includes.(js|coffee)` for your angular `app.(js|coffee)` to support [functionality-split]("#Directory_Structure") angularjs projects.
+Builds an `includes.(js|coffee)` for your angular `app.(js|coffee)` to support [functionality-split]("#directory-structure") angularjs projects.
 [Gulp](http://gulpjs.com/) and [browserify](http://browserify.org/) have done a great job at making the build process straightforward so I wanted to extend that onto my angular apps.
 
 This basically allows the following:
