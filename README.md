@@ -22,7 +22,10 @@ Your gulpfile needs to have the following:
 
 ```javascript
 // gulpfile.js
+var gulp = require('gulp');
+var gutil = require('gulp-util');
 var angularinc = require('gulp-angular-includes');
+var source = require('vinyl-source-stream');
 
 var paths = {
   "angular": ["./app/*/*/*.js"]
