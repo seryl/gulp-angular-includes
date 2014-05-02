@@ -7,7 +7,9 @@ Builds an `includes.(js|coffee)` for your angular `app.(js|coffee)` to support [
 This basically allows the following:
 
 ```javascript
+// app.js
 'use strict';
+
 var myApp;
 
 myApp = angular.module('myApp', ['ui.router', 'ui.bootstrap']);
