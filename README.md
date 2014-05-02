@@ -1,4 +1,4 @@
-gulp-angular-includes
+gulp-angular-includes [![build status](https://secure.travis-ci.org/seryl/gulp-angular-includes.png?branch=master)](http://travis-ci.org/seryl/gulp-angular-includes)
 =====================
 
 Builds an `includes.(js|coffee)` for your angular `app.(js|coffee)` to support [functionality-split](#directory-structure) angularjs projects.
