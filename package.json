@@ -1,6 +1,6 @@
 {
   "name":"gulp-angular-includes",
-  "version":"0.0.1",
+  "version":"0.0.2",
   "description": "Opinionated gulp transform to create angularjs includes for functionally split components",
   "author": "Josh Toft <joshtoft@gmail.com>",
   "repository": {
