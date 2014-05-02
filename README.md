@@ -53,6 +53,7 @@ Note: `common` is always the first group in the resulting includes file.
 .
 ├── app
 │   ├── app.js
+│   ├── includes.js
 │   ├── common
 │   │   ├── controllers
 │   │   ├── directives
